@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const pino = require('pino');
 const qrcode = require('qrcode-terminal');
-const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('xmd-baileys');
+const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('raiden-baileys');
 
 let sock = null;
 
