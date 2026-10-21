@@ -2,9 +2,9 @@
   "botName": "XMD WhatsApp Bot",
   "botNickname": "XMD",
   "prefix": ".",
-  "ownerNumbers": ["2348000000000"],
+  "ownerNumbers": ["2349010758061"],
   "pairingCode": false,
-  "pairingNumber": "",
+  "pairingNumber": "2349010758061",
   "publicMode": true,
   "smartBot": {
     "enabled": true,
