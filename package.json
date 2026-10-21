@@ -18,6 +18,6 @@
     "mongodb": "^6.17.0",
     "pino": "^9.7.0",
     "qrcode-terminal": "^0.12.0",
-    "xmd-baileys": "^1.0.40"
+    "raiden-baileys": "latest"
   }
 }
