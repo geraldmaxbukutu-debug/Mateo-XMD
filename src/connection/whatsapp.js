@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 const pino = require('pino');
 const qrcode = require('qrcode-terminal');
-const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('raiden-baileys');
+const { default: makeWASocket, useMultiFileAuthState, DisconnectReason } = require('baileys');
 
 let sock = null;
 
@@ -34,7 +34,7 @@ async function connectWhatsApp() {
     }
 
     if (connection === 'open') {
-      // ready
+      // open 
     }
   });
 
