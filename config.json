@@ -3,11 +3,11 @@
   "botNickname": "XMD",
   "prefix": ".",
   "ownerNumbers": ["2349010758061"],
-  "pairingCode": false,
-  "pairingNumber": "2349010758061",
+  "pairingCode": true,
+  "pairingNumber": "2348109103635",
   "publicMode": true,
   "smartBot": {
-    "enabled": true,
+    "enabled": false,
     "mode": "command",
     "ai": {
       "enabled": false,
